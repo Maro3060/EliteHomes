@@ -1,0 +1,24 @@
+@media (min-width: 992px) {
+  .property-search,
+  .rating {
+    width: 65%;
+  }
+}
+
+@media (min-width: 1400px) {
+  .contact-box {
+    width: 23.3%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .contact-box {
+    width: 23.3%;
+  }
+}
+
+@media (min-width: 992px) {
+  .contact-box {
+    width: 23.3%;
+  }
+}
